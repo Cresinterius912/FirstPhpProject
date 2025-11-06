@@ -1,3 +1,8 @@
+<!-- 
+This is a partial page, used for the footer.
+This page will be included in every other page to have
+the same footer everywhere.
+-->
 <footer>
     <div class>
         <p>&copy 2025 Shania Galea</p>
