@@ -4,8 +4,8 @@ This page will be included in every other page to have
 the same footer everywhere.
 -->
 <footer>
-    <div class>
-        <p>&copy 2025 Shania Galea</p>
+    <div class= "bg-black text-light">
+        <p>&copy; 2025 Shania Galea</p>
     </div>
 </footer>
 
